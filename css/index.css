@@ -1,0 +1,72 @@
+/* CSS file --> Index.html */
+/* (1) Tag Selector */
+body{
+    background-image: url(https://i.pinimg.com/originals/a7/f8/b8/a7f8b86d8bc8de9fd4acc00612be0b84.jpg)
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    background-color: #911F27;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-weight:normal;
+    background-color: #F6D167;
+}
+h4{
+    text-align: center;
+    font-family: 'Kashmir', sans-serif; font-weight: normal;
+    font-weight: normal;
+    background-color: #297F87;
+}
+table{
+    width:100%; 
+    text-align:center;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;  
+}
+/* Class Selector type 2 */
+.p-Aboutme{
+    font-weight:normal; 
+    text-align: center;
+}
+.p-Info{
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+.p-Name{
+    font-weight:normal;
+}
+.p-Footer{
+    text-align: center;
+}
+.name{
+    text-decoration: underline;
+    color: brown;
+}
+/* Id Selector type 3 */
+#th-Aboutme{
+    background-color:#FFF7AE;
+}
+#th-Details{ 
+    text-align: left;
+    background-color:#FFF7AE;
+}
+/* div */
+.top-container{
+    background-color: #FFF7AE;
+}
+.table-menu td:hover{
+    background-color: #DF711B;
+}
+.table-menu{
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+.table-contant h2{
+    background-color: #F6D167;
+}
+.table-contant img:hover{
+    background-color: #F6D167;
+}

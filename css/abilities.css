@@ -1,0 +1,36 @@
+/* CSS files --> abilities.html */
+body{
+    background-image: url(https://i.pinimg.com/originals/a7/f8/b8/a7f8b86d8bc8de9fd4acc00612be0b84.jpg)
+}
+.table-menu td:hover{
+    background-color: #DF711B;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #FEFDCA;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #911F27;
+} 
+h4{
+    text-align: center; 
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: 'Kashmir', sans-serif; 
+    font-weight: normal;
+}
+h2{ 
+    text-align: center;
+} 
+.table-skills{
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: #FEFDCA;
+}

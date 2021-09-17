@@ -1,0 +1,51 @@
+/* CSS files --> experiences.html */
+body{
+    background-image: url(https://i.pinimg.com/originals/a7/f8/b8/a7f8b86d8bc8de9fd4acc00612be0b84.jpg)
+}
+.table-menu td:hover{
+    background-color: #DF711B;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #FEFDCA;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #911F27;
+}
+h2{
+    text-align: center;  
+} 
+h4{
+    text-align: center; 
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: 'Kashmir', sans-serif; font-weight: normal;
+    font-weight: normal;
+}
+.table-content{
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: #FEFDCA;
+}
+.ul-circle{
+    list-style-type:circle;
+    background-color: #FFB740;
+} 
+.ul-disc{
+    list-style-type:disc;
+    background-color: #FFB740;
+}
+.ul-square{
+    list-style-type:square;
+    background-color: #FFB740;
+}
+.ol-order{
+    background-color: #FFB740;
+}
